@@ -1,4 +1,4 @@
-# Tableau_Projects
+# Tableau Projects
 This repository contains Tableau dashboards and files related to a variety of topics. Each project and deliverable is explained in greater detail below.
 
 ## NBA.twbx
