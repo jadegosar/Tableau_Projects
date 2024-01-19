@@ -6,9 +6,11 @@ This file contains two dashboards, the first of which shows a NBA player's shoot
 
 **Data Description and Feature Engineering**
 
-The dataset used for this project was from the 2016-17 NBA season that includes shooting information for players such as where the shot was taken from on the court, shot zone, shot distance, and whether it was made or not. In addition to these metrics, the dataset included game information such as the date of the game and where the game was being played that was used to create a calculated field that determined whether the team was playing at home or away. Another feature that was engineered from the available data was total time remaining in the period to allow for users to filter the shot chart to a specific time frame within each quarter and provide more context on what type of shots the team or individual player are taking in that time interval.
+The dataset used for this project was from the 2016-17 NBA season that includes shooting information for players such as where the shot was taken from on the court, shot zone, shot distance, and whether it was made or not. In addition to these metrics, the dataset included game information such as the date of the game and where the game was being played that was used to create a calculated field that determined whether the team was playing at home or away. Another feature that was engineered from the available data was total time remaining in the period to allow for users to filter the shot chart to a specific time frame within a quarter and provide more context on what type of shots the team or individual player are taking in that time interval.
 
 **Project Process**
+
+The first step of this project was to create worksheets that could be used in the dashboards. The worksheets that were created are a 'Home or Away' analysis that contains a bar chart of shooting efficiency based on what team and player is selected, a 'Player Photo' sheet that links a player's name to a game photo, and a 'Shooting Efficiency' sheet that overlays a shot chart on a basketball court based on the parameters specified for team or player. 
 
 **Tableau Output**
 
