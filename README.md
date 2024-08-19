@@ -10,9 +10,10 @@ The dataset used for this project was from the 2016-17 NBA season that includes 
 
 **Project Process**
 
-The first step of this project was to create worksheets that could be used in the dashboards. The worksheets that were created are a 'Home or Away' analysis that contains a bar chart of shooting efficiency based on what team and player is selected, a 'Player Photo' sheet that links a player's name to a game photo, and a 'Shooting Efficiency' sheet that overlays a shot chart on a basketball court based on the parameters specified for team or player. 
+The first step of this project was to create worksheets that could be used in the dashboards. The worksheets that were created are a 'Home or Away' analysis that contains a bar chart of shooting efficiency based on what team and player is selected, a 'Player Photo' sheet that links a player's name to a game photo, and a 'Shooting Efficiency' sheet that overlays a shot chart on a basketball court based on the parameters specified for team or player. These worksheets and the features I engineered were used to create the two dashboards shown below, allowing for the visualizations to be dynamic based on player or team selections as well as the additional game data parameters that can be specified.
 
 **Tableau Output**
-
+![Image Alt text](/images/MBB_Dash_1.png)
+![Image Alt text](/images/MBB_Dash_2.png)
 
 ## ForbesTop2000.twbx
