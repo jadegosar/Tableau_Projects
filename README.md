@@ -18,3 +18,8 @@ The first step of this project was to create worksheets that could be used in th
 ![Image Alt text](/Tableau_Dashboard_2.png)
 
 ## ForbesTop2000.twbx
+The Tableau dashboard titled ForbesTop2000 is based on data from the Forbes Global 2000 which ranks the top public companies in the world. It contains information on company names, country of operation, sales, profits, assets, market value and industry. Calculated fields were created to determine whether a company was profitable, what their total expenses were, and a measure to effectively sort the visualizations in descending order of category selected. The types of graphs created to visualize this data in a variety of ways were a bullet graph (shown in the dashboard output), a treemap that illustrates the proportion of sales from each country within each sector, and a ranked bar chart to compare market value to profits of each company in the dataset
+
+**Tableau Output**
+
+![Image Alt text](/Forbes_Dashboard.png)
